@@ -1,0 +1,24 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "CommonSharp - A collection of some useful C# static methods ",
+  "authors": [ "VSG24" ],
+  "tags": [ "c#", ".net4", ".net_core", "commonsharp" ],
+  "projectUrl": "https://github.com/VSG24/CommonSharp",
+  "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23516",
+        "System.Collections": "4.0.11-beta-23516",
+        "System.Linq": "4.0.1-beta-23516",
+        "System.Runtime": "4.0.21-beta-23516",
+        "System.Threading": "4.0.11-beta-23516",
+        "System.Text.RegularExpressions": "4.0.11-beta-23516",
+        "System.Security.Cryptography.Algorithms": "4.0.0-beta-23225",
+        "System.Text.Encoding": "4.0.11-beta-23509"
+      }
+    }
+  }
+}
