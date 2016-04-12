@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 
-namespace CommonSharp
+namespace VSG24.CommonSharp
 {
     // This project can output the Class library as a NuGet Package.
     // To enable this option, right-click on the project and select the Properties menu item. In the Build tab select "Produce outputs on build".
