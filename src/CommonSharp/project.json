@@ -1,6 +1,6 @@
 ﻿{
-  "version": "1.0.1-*",
-  "description": "CommonSharp - A collection of some useful C# static methods ",
+  "version": "1.1.0-*",
+  "description": "CommonSharp - A collection of useful C# classes and static methods",
   "authors": [ "VSG24" ],
   "tags": [ "c#", ".net4", ".net_core", "commonsharp" ],
   "projectUrl": "https://github.com/VSG24/CommonSharp",

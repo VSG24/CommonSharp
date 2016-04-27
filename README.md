@@ -1,15 +1,20 @@
 # CommonSharp
-A collection of some useful C# static methods
+CommonSharp - A collection of useful C# classes and static methods
 
-ATM Includes:
+v1.1.0 includes:
+
+Static Methods:
 
 `MD5()`
-
+`SHA1()`
 `RemoveSpecialCharacters()`
-
 `ArrayRand()`
 
-Install with nuget:
+Classes:
+
+`CryptoRandom` (What is it? Visit https://www.nuget.org/packages/CommonSharp/1.1.0)
+
+**Install with nuget:**
 
 `Install-Package CommonSharp`
 
