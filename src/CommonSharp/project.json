@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.0-*",
+  "version": "1.2.0-*",
   "description": "CommonSharp - A collection of useful C# classes and static methods",
   "authors": [ "VSG24" ],
   "tags": [ "c#", ".net4", ".net_core", "commonsharp" ],
