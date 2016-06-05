@@ -1,5 +1,5 @@
 # CommonSharp
-CommonSharp - A collection of useful C# classes and static methods
+CommonSharp - A collection of useful C# classes and static methods (.NET Core compatible!)
 
 v1.2.0 includes:
 
